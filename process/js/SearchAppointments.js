@@ -26,7 +26,7 @@ var SearchAppointments = React.createClass({
                 <ul className="dropdown-menu dropdown-menu-right">
                   <li><a href="#" id="patientName" onClick={ this.handleSort }>Patient Name { (this.props.orderBy === 'patientName') ? <span className="glyphicon glyphicon-ok"></span>: null }</a></li>
                   <li><a href="#" id="aptDate" onClick={ this.handleSort }>Date { (this.props.orderBy === 'aptDate') ? <span className="glyphicon glyphicon-ok"></span>: null }</a></li>
-                  <li><a href="#" id="respondantName" onClick={ this.handleSort }>Owner { (this.props.orderBy === 'respondantName') ? <span className="glyphicon glyphicon-ok"></span>: null }</a></li>
+                  <li><a href="#" id="respondantName" onClick={ this.handleSort }>Respondant { (this.props.orderBy === 'respondantName') ? <span className="glyphicon glyphicon-ok"></span>: null }</a></li>
                   <li role="separator" className="divider"></li>
                   <li><a href="#" id="asc" onClick={ this.handleOrder }>Asc { (this.props.orderDir === 'asc') ? <span className="glyphicon glyphicon-ok"></span>: null }</a></li>
                   <li><a href="#" id="desc" onClick={ this.handleOrder }>Desc { (this.props.orderDir === 'desc') ? <span className="glyphicon glyphicon-ok"></span>: null }</a></li>
