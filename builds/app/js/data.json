@@ -1,0 +1,26 @@
+[
+  {
+    "patientName": "Peter Johnson",
+    "respondantName": "Hassum Harrod",
+    "aptDate": "2019-06-20 15:30",
+    "aptNotes": "Patient has swere nut alergy!"
+  },
+  {
+    "patientName": "Eric Rickson",
+    "respondantName": "Rick Smith",
+    "aptDate": "2019-06-24 08:30",
+    "aptNotes": "Patient is having sore throat for 3 weeks now."
+  },
+  {
+    "patientName": "John Davis",
+    "respondantName": "Hillary Goldwyn",
+    "aptDate": "2019-06-22 15:50",
+    "aptNotes": "Patient is having stomach infection as of 2019-06-21."
+  },
+  {
+    "patientName": "Carla Bright",
+    "respondantName": "Miranda Bright",
+    "aptDate": "2019-06-21 9:15",
+    "aptNotes": "Patient got a broken leg and knee fracture from a football game."
+  }
+]
